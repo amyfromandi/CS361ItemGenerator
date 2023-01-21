@@ -1,0 +1,1 @@
+web gunicorn CS361ItemGenerator.wsgi:application --log-file -
