@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-!til%o7=*v4m+7wav_rroudo@2=m@gj_7**2(t3h3vbip=c_+1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cubex-item-generator.herokuapp.com']
+ALLOWED_HOSTS = ['cubex-item-generator.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
